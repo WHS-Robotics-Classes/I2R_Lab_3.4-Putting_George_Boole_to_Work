@@ -11,8 +11,12 @@ Read [this reference page](https://www.arduino.cc/reference/en/language/structur
 ### Step Three: Write the Code
 Let's break the sketch down into two parts.  For this assignment, you have two starter code files.  By the end, you will merge them into one file.  
 
-1. Open the file called starter_while.ino first.
-    - Modify this code so that the while loop runs exactly four times.
+1. Open the file called Starter_while.ino first.
+    - Modify this code so that the while loop runs exactly four times and prints to the Serial Monitor as it does in the video below.
+[!while_example](http://img.youtube.com/vi/riyNHcp8Qs4/0.jpg)(https://www.youtube.com/watch?v=riyNHcp8Qs4 "Lab 3.3 Prototype")
+    
+2. Open the file called Starter_for.ino next.
+    - Modify this code so that the 
 
 See the video here for an example: 
 
