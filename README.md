@@ -1,26 +1,17 @@
-# 3.3-Utilizing_analogWrite
-## For this assignment you will be working with a new function, `analogWrite()`.  Unlike `digitalWrite()` which only has two possible power settings for an output pin, `analogWrite()` allows us to use an 8-bit value for power control (up to 256 possible variations).  While this is not a true analog power signal, it can be uesd to imitate analog controls.
+# 3.4-Putting George Boole to Work
+## One of the fundamental concepts of robotics is decision making.  Without Boolean logic and math our systems cannot make decisions.  `for()` and `while()` loops will allow us to begin to do some interesting things.
 ---
 ### Step One: Build the Prototype
 Create the following prototype on your breadboard:
-![analogWrite()_prototype](https://github.com/WHS-Robotics-Classes/3.3-Utilizing_analogWrite/blob/main/analogWrite_prototype.PNG?raw=true)
+![Boole prototype]()
 
-### Step Two: Review `analogWrite()`
-Read [this reference page](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/) about the new function we are learning.  Pay attention to the difference between `digitalWrite()` and `analogWrite()` (What is the primary difference in the code and which pins may be used with this function?)
+### Step Two: Review `for()`
+Read [this reference page](https://www.arduino.cc/reference/en/language/structure/control-structure/for/) about the new function we are learning.  
 
 ### Step Three: Write the Code
-Write a sketch that makes the lights on your breadboard alternate continuously between three levels of light.  
-- Red LED
-  - full power
-  - one second delay
-  - 40% power
-  - one second delay
-  - 0% power
-  - one second delay
-- Green LED (repeat the cycle)
-- Blue LED (repeat the cycle)
+Write a sketch that
 
-Repeat this forever.
+
 
 There is some starter code above to help.
 
