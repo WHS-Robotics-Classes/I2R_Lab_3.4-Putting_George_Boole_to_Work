@@ -3,7 +3,7 @@
 ---
 ### Step One: Build the Prototype
 Create the following prototype on your breadboard:
-![Boole prototype]()
+![Boole prototype](https://github.com/WHS-Robotics-Classes/3.4-Putting_George_Boole_to_Work/blob/main/Boole_Circuit.PNG?raw=true)
 
 ### Step Two: Review `for()`
 Read [this reference page](https://www.arduino.cc/reference/en/language/structure/control-structure/for/) about the new function we are learning.  
