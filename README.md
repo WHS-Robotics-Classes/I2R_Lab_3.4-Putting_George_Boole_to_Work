@@ -5,15 +5,14 @@
 Create the following prototype on your breadboard:
 ![Boole prototype](https://github.com/WHS-Robotics-Classes/3.4-Putting_George_Boole_to_Work/blob/main/Boole_Circuit.PNG?raw=true)
 
-### Step Two: Review `for()`
-Read [this reference page](https://www.arduino.cc/reference/en/language/structure/control-structure/for/) about the new function we are learning.  
+### Step Two: Review `for()` and `while()`
+Read [this reference page](https://www.arduino.cc/reference/en/language/structure/control-structure/for/) about the new function `for()` and [this reference page](https://www.arduino.cc/reference/en/language/structure/control-structure/while/) acout `while()` which we are learning.  
 
 ### Step Three: Write the Code
-Write a sketch that
+Let's break the sketch down into two parts.  For this assignment, you have two starter code files.  By the end, you will merge them into one file.  
 
-
-
-There is some starter code above to help.
+1. Open the file called starter_while.ino first.
+    - Modify this code so that the while loop runs exactly four times.
 
 See the video here for an example: 
 
