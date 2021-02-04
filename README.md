@@ -12,17 +12,16 @@ Read [this reference page](https://www.arduino.cc/reference/en/language/structur
 Let's break the sketch down into two parts.  For this assignment, you have two starter code files.  By the end, you will merge them into one file.  
 
 1. Open the file called Starter_while.ino first.
-    - Modify this code so that the while loop runs exactly four times and prints to the Serial Monitor as it does in the video below.
-[!while_example](http://img.youtube.com/vi/riyNHcp8Qs4/0.jpg)(https://www.youtube.com/watch?v=riyNHcp8Qs4 "Lab 3.3 Prototype")
+    - Modify this code so that the while loop runs exactly three times, turns on LEDs 2, 3 and 4 in sequence and prints to the Serial Monitor as it does in the video at the bottom of the page.  For this part, refer to the `while()` loop example in the video.
     
 2. Open the file called Starter_for.ino next.
-    - Modify this code so that the 
+    - Modify this code so that LED1 fades from off to 100% duty cycle and then back to off over the course of two seconds as in the video at the bottom of the page.  For this part, refer to the `for()` loop example in the video.
 
-See the video here for an example: 
+3. Combine the code by nesting the `for()` loop inside the `while()` loop.  This will create what you see below.  For this part, refer to the nested loops example in the video.
 
-[![Lab 3.3 Prototype](http://img.youtube.com/vi/riyNHcp8Qs4/0.jpg)](https://www.youtube.com/watch?v=riyNHcp8Qs4 "Lab 3.3 Prototype")
+![Boole Video](
 
 ### Step Four: Debug and Submit
-Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.3_Utilizing_analogWrite.ino and Commit it to the repository.
+Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.4_Boole.ino and Commit it to the repository.
 
 REMEMBER: THIS ASSIGNMENT REQUIRES BOTH A VIDEO OF YOUR PROTOTYPE AND CODE SUBMITTED ON GITHUB
