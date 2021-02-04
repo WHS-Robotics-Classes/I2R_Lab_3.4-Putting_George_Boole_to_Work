@@ -19,7 +19,7 @@ Let's break the sketch down into two parts.  For this assignment, you have two s
 
 3. Combine the code by nesting the `for()` loop inside the `while()` loop.  This will create what you see below.  For this part, refer to the nested loops example in the video.
 
-[![Boole_Video](http://img.youtube.com/vi/YLVuv-kYwoE/0.jpg)](https://www.youtube.com/watch?v=YLVuv-kYwoE "Lab 3.4 Prototype")
+[![Boole_Video](http://img.youtube.com/vi/YLVuv-kYwoE/0.jpg)](https://www.youtube.com/watch?v=YLVuv-kYwoE)
 
 ### Step Four: Debug and Submit
 Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.4_Boole.ino and Commit it to the repository.
