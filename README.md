@@ -17,9 +17,7 @@ Let's break the sketch down into two parts.  For this assignment, you have two s
 2. Open the file called Starter_for.ino next.
     - Modify this code so that LED1 fades from off to 100% duty cycle and then back to off over the course of two seconds as in the video at the bottom of the page.  For this part, refer to the `for()` loop example in the video.
 
-3. Combine the code by nesting the `for()` loop inside the `while()` loop.  This will create what you see below.  For this part, refer to the nested loops example in the video.
-
-[![Boole_Video](http://img.youtube.com/vi/YLVuv-kYwoE/0.jpg)](https://www.youtube.com/watch?v=YLVuv-kYwoE "Boole Video")
+3. Combine the code by nesting the `for()` loop inside the `while()` loop.  This will create what you see below.  
 
 ### Step Four: Debug and Submit
 Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.4_Boole.ino and Commit it to the repository.
